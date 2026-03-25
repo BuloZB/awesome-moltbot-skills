@@ -13,9 +13,9 @@
     <br />
     <br />
 </div>
-
+  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5197-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![Agent Skills](https://img.shields.io/static/v1?label=%E2%9A%A1%20Agent&message=Skills%2012k&color=black&style=classic)](https://github.com/VoltAgent/awesome-agent-skills)
+[![Agent Skills](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=classic&label=%E2%9A%A1%20Agent%20Skills&color=black)](https://github.com/VoltAgent/awesome-agent-skills)
 [![Claude Code Subagents](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=classic&label=Claude%20Code%20Subagents&color=D97757&logo=claude&logoColor=D97757)](https://github.com/VoltAgent/awesome-claude-code-subagents)
 [![Codex Subagents][codex-badge]][codex-link]
 [![AI Agent Papers](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=classic&label=AI%20Agent%20Papers&color=b31b1b&logo=arxiv)](https://github.com/VoltAgent/awesome-ai-agent-papers)
@@ -165,7 +165,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
-
+  
 > Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the source code before installing and use skills at your own discretion.
 
 
@@ -177,15 +177,15 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (102) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (203) | [Speech & Transcription](#speech--transcription) (45) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (45) |
 | [Browser & Automation](#browser--automation) (322) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (65) | |
-| [Image & Video Generation](#image--video-generation) (164) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
+| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (70) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (53) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (179) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -281,7 +281,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - Read and query retreat participant data from the Ceremonia Airtable base.
 - [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.
 
-> **[View all 320 skills in Browser & Automation →](categories/browser-and-automation.md)**
+> **[View all 322 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
 <details>
@@ -382,7 +382,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
 
-> **[View all 169 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
+> **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
 <details>
@@ -487,8 +487,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [clawdefender](https://clawskills.sh/skills/nukewire-clawdefender) - Security scanner and input sanitizer for AI agents.
 - [clawdirect](https://clawskills.sh/skills/napoleond-clawdirect) - Interact with ClawDirect, a directory of social web experiences.
 - [clawdirect-dev](https://clawskills.sh/skills/napoleond-clawdirect-dev) - Build agent-facing web experiences with ATXP-based.
+- [honcho-setup](https://clawskills.sh/skills/ajspig-honcho-setup) - Persistent cross-session memory via Honcho.
 
-> **[View all 36 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
+> **[View all 37 skills in Clawdbot Tools →](categories/clawdbot-tools.md)**
 </details>
 
 <details>
@@ -523,7 +524,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course data, assignments.
 - [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-CAPTCHA challenges to verify.
 
-> **[View all 179 skills in CLI Utilities →](categories/cli-utilities.md)**
+> **[View all 180 skills in CLI Utilities →](categories/cli-utilities.md)**
 </details>
 
 <details>
@@ -589,8 +590,10 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ask-agents](https://clawskills.sh/skills/teamolab-ask-agents) - AI agent for ask agents tasks.
 - [async-task](https://clawskills.sh/skills/enderfga-async-task) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
+- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
 
-> **[View all 204 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 205 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+
 </details>
 
 <details>
