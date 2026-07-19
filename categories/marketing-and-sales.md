@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**104 skills**
+**106 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -87,6 +87,7 @@
 - [ryot](https://clawskills.sh/skills/f-liva-ryot) - Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.
 - [sentiment-priority-scorer](https://clawskills.sh/skills/vishalgojha-sentiment-priority-scorer) - Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce.
 - [signup-lead](https://clawskills.sh/skills/waqas-orcalo-signup-lead) - Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
+- [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [simplified-social-media](https://clawskills.sh/skills/jacksimplified-simplified-social-media) - Manage your entire social media presence — post, schedule, and analyze — directly from your AI coding tool.
 - [social-media-lead-generation](https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation) - This skill helps businesses, training institutes, and online educators generate leads and sales using social media.
 - [solo-metrics-track](https://clawskills.sh/skills/fortunto2-solo-metrics-track) - Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds.
@@ -102,3 +103,6 @@
 - [workcrm](https://clawskills.sh/skills/extraterrest-workcrm) - A lightweight, local-first CRM with an explicit confirmation gate.
 - [writing-assistant](https://clawskills.sh/skills/urrrich-writing-assistant) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
+- [ldm-openclaw-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-skill) - Pre-send deliverability checks for outbound agents.
+- [ldm-openclaw-inbox-mcp-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.
+- [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
